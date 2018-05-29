@@ -1,0 +1,7 @@
+---
+applications:
+- name: employee-master
+  memory: 1024M
+  instances: 1
+  random-route: true
+  path: employee-service/target/employee-service-0.0.1-SNAPSHOT.war

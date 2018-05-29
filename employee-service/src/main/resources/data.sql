@@ -1,0 +1,2 @@
+insert into EMPLOYEE_REGISTRATION  values(1,'BTA','Anuj Narayan','490425','Staffing','Developer','CLOUD');
+insert into EMPLOYEE_REGISTRATION  values(2,'BTA','Abhishek Desai','490574','Staffing','Developer','CLOUD');
