@@ -3,5 +3,5 @@ applications:
 - name: employee-master
   memory: 1024M
   instances: 1
-  random-route: true
+  host: employee-master-chronological-barra.cfapps.io
   path: employee-service/target/employee-service-0.0.1-SNAPSHOT.war
